@@ -30,3 +30,11 @@ The goal of this project is to provide a data-driven view of Swiggy’s operatio
 - Delivery performance and order distribution
 - Profitability and margin analysis
 
+# 🧠 Learning Outcome
+
+This project demonstrates how to:
+- Clean and model real-world datasets
+- Build interactive dashboards
+- Write effective DAX measures for insights
+- Communicate business performance visually
+
