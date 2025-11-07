@@ -24,12 +24,12 @@ You can access the dataset and Power BI dashboard here:
 
 # 🔍 Key Insights:
 
-📍 Tirupati ranked 1st with ₹43M in sales, followed by Electronic City, Bangalore (₹29M).
-🥗 Vegetarian options generated 7.2% more sales than non-veg dishes.
-📈 Sales grew 356% in 2018, before a 17% dip in 2019.
-🧑‍🎓 Customers aged 21–25 (mostly college students) made the most purchases — a clear segment for targeted marketing.
-👨 Male users contributed more to revenue — potential to grow engagement among female customers.
-⭐ The top 10% of users drove 80% of total sales, suggesting strong loyalty opportunities.
+- 📍 Tirupati ranked 1st with ₹43M in sales, followed by Electronic City, Bangalore (₹29M).
+- 🥗 Vegetarian options generated 7.2% more sales than non-veg dishes.
+- 📈 Sales grew 356% in 2018, before a 17% dip in 2019.
+- 🧑‍🎓 Customers aged 21–25 (mostly college students) made the most purchases — a clear segment for targeted marketing.
+- 👨 Male users contributed more to revenue — potential to grow engagement among female customers.
+- ⭐ The top 10% of users drove 80% of total sales, suggesting strong loyalty opportunities.
 
 # 📈 Project Overview
 
