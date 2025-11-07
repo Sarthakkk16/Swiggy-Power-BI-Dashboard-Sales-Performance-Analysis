@@ -17,3 +17,11 @@ You can access the dataset and Power BI dashboard here:
 - Excel – Data cleaning and preprocessing
 - DAX (Data Analysis Expressions) – Calculated columns & measures
 - Power Query – Data transformation
+
+# 📈 Project Overview
+
+The goal of this project is to provide a data-driven view of Swiggy’s operations, helping identify:
+- Top-performing restaurants
+- Monthly and city-wise revenue trends
+- Delivery performance and order distribution
+- Profitability and margin analysis
