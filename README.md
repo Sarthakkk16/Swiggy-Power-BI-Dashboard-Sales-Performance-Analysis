@@ -9,7 +9,7 @@ This repository contains the Power BI project and dataset used to analyze Swiggy
 You can access the dataset and Power BI dashboard links are present here:
 
 - [Swiggy Dataset (Excel File)](https://www.kaggle.com/datasets/sarthaksharma16/swiggy-dataset)
-- [Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1XYZ987654321/view?usp=sharing)
+- [Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1-CMpBenkBzXpVJsoe3Qh-2aQCn22lEdG/view?usp=drive_link)
 
 # 🚀 How to Use
 
